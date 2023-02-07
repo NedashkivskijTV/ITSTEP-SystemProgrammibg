@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\L-01\Module1_Урок1\Урок1\Source\03_DllImportExample\C#\DllImportExample_3\bin\Debug\DllImportExample_3.exe.config
+D:\ITSTEP\SystemPrograming\L-01\Module1_Урок1\Урок1\Source\03_DllImportExample\C#\DllImportExample_3\bin\Debug\DllImportExample_3.exe
+D:\ITSTEP\SystemPrograming\L-01\Module1_Урок1\Урок1\Source\03_DllImportExample\C#\DllImportExample_3\bin\Debug\DllImportExample_3.pdb
+D:\ITSTEP\SystemPrograming\L-01\Module1_Урок1\Урок1\Source\03_DllImportExample\C#\DllImportExample_3\obj\Debug\DllImportExample_3.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-01\Module1_Урок1\Урок1\Source\03_DllImportExample\C#\DllImportExample_3\obj\Debug\DllImportExample_3.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-01\Module1_Урок1\Урок1\Source\03_DllImportExample\C#\DllImportExample_3\obj\Debug\DllImportExample_3.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-01\Module1_Урок1\Урок1\Source\03_DllImportExample\C#\DllImportExample_3\obj\Debug\DllImportExample_3.exe
+D:\ITSTEP\SystemPrograming\L-01\Module1_Урок1\Урок1\Source\03_DllImportExample\C#\DllImportExample_3\obj\Debug\DllImportExample_3.pdb

@@ -1,0 +1,9 @@
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\ModuleThree\bin\Release\ModuleThree.dll
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\ModuleThree\bin\Release\ModuleThree.pdb
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\ModuleThree\bin\Release\AssemblyExample.dll
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\ModuleThree\bin\Release\AssemblyExample.pdb
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\ModuleThree\obj\Release\ModuleThree.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\ModuleThree\obj\Release\ModuleThree.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\ModuleThree\obj\Release\ModuleThree.csproj.CopyComplete
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\ModuleThree\obj\Release\ModuleThree.dll
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\ModuleThree\obj\Release\ModuleThree.pdb

@@ -1,0 +1,6 @@
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\AssemblyExample\bin\Release\AssemblyExample.dll
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\AssemblyExample\bin\Release\AssemblyExample.pdb
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\AssemblyExample\obj\Release\AssemblyExample.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\AssemblyExample\obj\Release\AssemblyExample.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\AssemblyExample\obj\Release\AssemblyExample.dll
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\AssemblyExample\obj\Release\AssemblyExample.pdb

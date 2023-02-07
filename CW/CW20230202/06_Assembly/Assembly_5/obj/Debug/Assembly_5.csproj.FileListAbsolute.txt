@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\06_Assembly\Assembly_5\bin\Debug\Assembly_5.exe.config
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\06_Assembly\Assembly_5\bin\Debug\Assembly_5.exe
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\06_Assembly\Assembly_5\bin\Debug\Assembly_5.pdb
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\06_Assembly\Assembly_5\obj\Debug\Assembly_5.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\06_Assembly\Assembly_5\obj\Debug\Assembly_5.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\06_Assembly\Assembly_5\obj\Debug\Assembly_5.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\06_Assembly\Assembly_5\obj\Debug\Assembly_5.exe
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\06_Assembly\Assembly_5\obj\Debug\Assembly_5.pdb

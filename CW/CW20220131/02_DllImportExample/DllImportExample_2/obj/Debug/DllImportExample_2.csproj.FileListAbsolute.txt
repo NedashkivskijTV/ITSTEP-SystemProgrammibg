@@ -1,0 +1,7 @@
+D:\ITSTEP\SystemPrograming\L-01\Module1_Урок1\Урок1\Source\02_DllImportExample\DllImportExample_2\bin\Debug\DllImportExample_2.exe.config
+D:\ITSTEP\SystemPrograming\L-01\Module1_Урок1\Урок1\Source\02_DllImportExample\DllImportExample_2\bin\Debug\DllImportExample_2.exe
+D:\ITSTEP\SystemPrograming\L-01\Module1_Урок1\Урок1\Source\02_DllImportExample\DllImportExample_2\bin\Debug\DllImportExample_2.pdb
+D:\ITSTEP\SystemPrograming\L-01\Module1_Урок1\Урок1\Source\02_DllImportExample\DllImportExample_2\obj\Debug\DllImportExample_2.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-01\Module1_Урок1\Урок1\Source\02_DllImportExample\DllImportExample_2\obj\Debug\DllImportExample_2.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-01\Module1_Урок1\Урок1\Source\02_DllImportExample\DllImportExample_2\obj\Debug\DllImportExample_2.exe
+D:\ITSTEP\SystemPrograming\L-01\Module1_Урок1\Урок1\Source\02_DllImportExample\DllImportExample_2\obj\Debug\DllImportExample_2.pdb

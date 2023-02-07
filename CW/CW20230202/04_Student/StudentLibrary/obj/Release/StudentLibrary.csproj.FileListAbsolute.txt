@@ -1,0 +1,6 @@
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\StudentLibrary\bin\Release\StudentLibrary.dll
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\StudentLibrary\bin\Release\StudentLibrary.pdb
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\StudentLibrary\obj\Release\StudentLibrary.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\StudentLibrary\obj\Release\StudentLibrary.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\StudentLibrary\obj\Release\StudentLibrary.dll
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\StudentLibrary\obj\Release\StudentLibrary.pdb

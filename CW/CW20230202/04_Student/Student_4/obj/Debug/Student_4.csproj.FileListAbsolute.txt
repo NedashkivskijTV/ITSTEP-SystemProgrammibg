@@ -1,0 +1,11 @@
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\Student_4\bin\Debug\Student_4.exe.config
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\Student_4\bin\Debug\Student_4.exe
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\Student_4\bin\Debug\Student_4.pdb
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\Student_4\obj\Debug\Student_4.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\Student_4\obj\Debug\Student_4.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\Student_4\obj\Debug\Student_4.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\Student_4\obj\Debug\Student_4.exe
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\Student_4\obj\Debug\Student_4.pdb
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\Student_4\bin\Debug\StudentLibrary.dll
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\Student_4\bin\Debug\StudentLibrary.pdb
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\04_Student\Student_4\obj\Debug\Student_4.csproj.CopyComplete

@@ -1,0 +1,11 @@
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\DinamicAssembly_6\bin\Release\DinamicAssembly_6.exe.config
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\DinamicAssembly_6\bin\Release\DinamicAssembly_6.exe
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\DinamicAssembly_6\bin\Release\DinamicAssembly_6.pdb
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\DinamicAssembly_6\bin\Release\AssemblyExample.dll
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\DinamicAssembly_6\bin\Release\AssemblyExample.pdb
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\DinamicAssembly_6\obj\Release\DinamicAssembly_6.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\DinamicAssembly_6\obj\Release\DinamicAssembly_6.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\DinamicAssembly_6\obj\Release\DinamicAssembly_6.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\DinamicAssembly_6\obj\Release\DinamicAssembly_6.csproj.CopyComplete
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\DinamicAssembly_6\obj\Release\DinamicAssembly_6.exe
+D:\ITSTEP\SystemPrograming\L-02\repit2\Module6_Урок2\Урок2\Source\07_DinamicAssembly\DinamicAssembly_6\obj\Release\DinamicAssembly_6.pdb
