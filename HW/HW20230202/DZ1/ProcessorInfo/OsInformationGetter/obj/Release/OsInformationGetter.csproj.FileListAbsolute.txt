@@ -1,0 +1,9 @@
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\OsInformationGetter\bin\Release\OsInformationGetter.dll
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\OsInformationGetter\bin\Release\OsInformationGetter.pdb
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\OsInformationGetter\bin\Release\ManagementClassCreator.dll
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\OsInformationGetter\bin\Release\ManagementClassCreator.pdb
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\OsInformationGetter\obj\Release\OsInformationGetter.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\OsInformationGetter\obj\Release\OsInformationGetter.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\OsInformationGetter\obj\Release\OsInformationGetter.csproj.CopyComplete
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\OsInformationGetter\obj\Release\OsInformationGetter.dll
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\OsInformationGetter\obj\Release\OsInformationGetter.pdb

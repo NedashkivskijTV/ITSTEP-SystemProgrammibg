@@ -1,0 +1,6 @@
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ManagementClassCreator\bin\Release\ManagementClassCreator.dll
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ManagementClassCreator\bin\Release\ManagementClassCreator.pdb
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ManagementClassCreator\obj\Release\ManagementClassCreator.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ManagementClassCreator\obj\Release\ManagementClassCreator.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ManagementClassCreator\obj\Release\ManagementClassCreator.dll
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ManagementClassCreator\obj\Release\ManagementClassCreator.pdb

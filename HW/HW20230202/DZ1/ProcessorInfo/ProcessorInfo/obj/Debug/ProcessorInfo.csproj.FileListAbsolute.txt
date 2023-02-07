@@ -1,0 +1,11 @@
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ProcessorInfo\bin\Debug\ProcessorInfo.exe.config
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ProcessorInfo\bin\Debug\ProcessorInfo.exe
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ProcessorInfo\bin\Debug\ProcessorInfo.pdb
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ProcessorInfo\obj\Debug\ProcessorInfo.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ProcessorInfo\obj\Debug\ProcessorInfo.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ProcessorInfo\obj\Debug\ProcessorInfo.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ProcessorInfo\obj\Debug\ProcessorInfo.exe
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ProcessorInfo\obj\Debug\ProcessorInfo.pdb
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ProcessorInfo\bin\Debug\ManagementClassCreator.dll
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ProcessorInfo\bin\Debug\ManagementClassCreator.pdb
+D:\ITSTEP\SystemPrograming\GIT\HW\HW20230202\ProcessorInfo\ProcessorInfo\obj\Debug\ProcessorInfo.csproj.CopyComplete

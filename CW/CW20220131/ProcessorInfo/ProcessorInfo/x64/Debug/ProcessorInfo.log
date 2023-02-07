@@ -1,0 +1,3 @@
+﻿  ProcessorInfo.cpp
+D:\ITSTEP\SystemPrograming\GIT\CW\CW20220131\ProcessorInfo\ProcessorInfo\ProcessorInfo.cpp(225,23): warning C4018: <: несоответствие типов со знаком и без знака
+  ProcessorInfo.vcxproj -> D:\ITSTEP\SystemPrograming\GIT\CW\CW20220131\ProcessorInfo\x64\Debug\ProcessorInfo.exe

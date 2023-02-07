@@ -1,0 +1,4 @@
+﻿  PI7.cpp
+D:\ITSTEP\SystemPrograming\GIT\CW\CW20220131\ProcessorInfo\PI7\PI7.cpp(9,29): error C2011: _SYSTEM_INFO: переопределение типа "struct"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\sysinfoapi.h(47): message : см. объявление "_SYSTEM_INFO"
+D:\ITSTEP\SystemPrograming\GIT\CW\CW20220131\ProcessorInfo\PI7\PI7.cpp(34,10): error C2337: out: атрибут не найден

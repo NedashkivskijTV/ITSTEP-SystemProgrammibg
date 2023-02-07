@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Создается библиотека D:\ITSTEP\SystemPrograming\GIT\CW\CW20220131\DynamicLibrary\x64\Debug\MathFuncsDll.lib и объект D:\ITSTEP\SystemPrograming\GIT\CW\CW20220131\DynamicLibrary\x64\Debug\MathFuncsDll.exp
+  MathFuncsDll.vcxproj -> D:\ITSTEP\SystemPrograming\GIT\CW\CW20220131\DynamicLibrary\x64\Debug\MathFuncsDll.dll
