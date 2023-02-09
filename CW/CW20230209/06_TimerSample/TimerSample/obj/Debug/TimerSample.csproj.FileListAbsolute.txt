@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\06_TimerSample\TimerSample\bin\Debug\TimerSample.exe.config
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\06_TimerSample\TimerSample\bin\Debug\TimerSample.exe
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\06_TimerSample\TimerSample\bin\Debug\TimerSample.pdb
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\06_TimerSample\TimerSample\obj\Debug\TimerSample.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\06_TimerSample\TimerSample\obj\Debug\TimerSample.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\06_TimerSample\TimerSample\obj\Debug\TimerSample.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\06_TimerSample\TimerSample\obj\Debug\TimerSample.exe
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\06_TimerSample\TimerSample\obj\Debug\TimerSample.pdb

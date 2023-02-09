@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\01_ListAppDomain\ListAppDomain\bin\Debug\ListAppDomain.exe.config
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\01_ListAppDomain\ListAppDomain\bin\Debug\ListAppDomain.exe
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\01_ListAppDomain\ListAppDomain\bin\Debug\ListAppDomain.pdb
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\01_ListAppDomain\ListAppDomain\obj\Debug\ListAppDomain.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\01_ListAppDomain\ListAppDomain\obj\Debug\ListAppDomain.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\01_ListAppDomain\ListAppDomain\obj\Debug\ListAppDomain.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\01_ListAppDomain\ListAppDomain\obj\Debug\ListAppDomain.exe
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\01_ListAppDomain\ListAppDomain\obj\Debug\ListAppDomain.pdb

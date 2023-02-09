@@ -1,0 +1,11 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230207\DZ2\AppRunner\CalcRunner\bin\Release\CalcRunner.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230207\DZ2\AppRunner\CalcRunner\bin\Release\CalcRunner.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230207\DZ2\AppRunner\CalcRunner\bin\Release\CalcRunner.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230207\DZ2\AppRunner\CalcRunner\obj\Release\AppRunner.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230207\DZ2\AppRunner\CalcRunner\obj\Release\AppRunner.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230207\DZ2\AppRunner\CalcRunner\obj\Release\CalcRunner.CalcRunner.resources
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230207\DZ2\AppRunner\CalcRunner\obj\Release\CalcRunner.Properties.Resources.resources
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230207\DZ2\AppRunner\CalcRunner\obj\Release\AppRunner.csproj.GenerateResource.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230207\DZ2\AppRunner\CalcRunner\obj\Release\AppRunner.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230207\DZ2\AppRunner\CalcRunner\obj\Release\CalcRunner.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230207\DZ2\AppRunner\CalcRunner\obj\Release\CalcRunner.pdb

@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\02_ProcessMethodsSample\ProcessMethodsSample\bin\Debug\ProcessMethodsSample.exe.config
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\02_ProcessMethodsSample\ProcessMethodsSample\bin\Debug\ProcessMethodsSample.exe
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\02_ProcessMethodsSample\ProcessMethodsSample\bin\Debug\ProcessMethodsSample.pdb
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\02_ProcessMethodsSample\ProcessMethodsSample\obj\Debug\ProcessMethodsSample.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\02_ProcessMethodsSample\ProcessMethodsSample\obj\Debug\ProcessMethodsSample.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\02_ProcessMethodsSample\ProcessMethodsSample\obj\Debug\ProcessMethodsSample.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\02_ProcessMethodsSample\ProcessMethodsSample\obj\Debug\ProcessMethodsSample.exe
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\02_ProcessMethodsSample\ProcessMethodsSample\obj\Debug\ProcessMethodsSample.pdb

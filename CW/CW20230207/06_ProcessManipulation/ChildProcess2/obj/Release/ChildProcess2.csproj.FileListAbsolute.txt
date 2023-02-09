@@ -1,0 +1,11 @@
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ChildProcess2\bin\Release\ChildProcess2.exe.config
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ChildProcess2\bin\Release\ChildProcess2.exe
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ChildProcess2\bin\Release\ChildProcess2.pdb
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ChildProcess2\obj\Release\ChildProcess2.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ChildProcess2\obj\Release\ChildProcess2.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ChildProcess2\obj\Release\ChildProcess2.Form1.resources
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ChildProcess2\obj\Release\ChildProcess2.Properties.Resources.resources
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ChildProcess2\obj\Release\ChildProcess2.csproj.GenerateResource.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ChildProcess2\obj\Release\ChildProcess2.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ChildProcess2\obj\Release\ChildProcess2.exe
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ChildProcess2\obj\Release\ChildProcess2.pdb

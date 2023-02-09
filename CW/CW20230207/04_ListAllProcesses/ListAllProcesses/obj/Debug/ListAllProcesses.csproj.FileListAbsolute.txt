@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\04_ListAllProcesses\ListAllProcesses\bin\Debug\ListAllProcesses.exe.config
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\04_ListAllProcesses\ListAllProcesses\bin\Debug\ListAllProcesses.exe
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\04_ListAllProcesses\ListAllProcesses\bin\Debug\ListAllProcesses.pdb
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\04_ListAllProcesses\ListAllProcesses\obj\Debug\ListAllProcesses.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\04_ListAllProcesses\ListAllProcesses\obj\Debug\ListAllProcesses.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\04_ListAllProcesses\ListAllProcesses\obj\Debug\ListAllProcesses.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\04_ListAllProcesses\ListAllProcesses\obj\Debug\ListAllProcesses.exe
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\04_ListAllProcesses\ListAllProcesses\obj\Debug\ListAllProcesses.pdb

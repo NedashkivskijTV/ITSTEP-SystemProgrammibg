@@ -1,0 +1,15 @@
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\02_ListAppDomainCore\ListAppDomainCore\bin\Debug\net6.0\ListAppDomainCore.exe
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\02_ListAppDomainCore\ListAppDomainCore\bin\Debug\net6.0\ListAppDomainCore.deps.json
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\02_ListAppDomainCore\ListAppDomainCore\bin\Debug\net6.0\ListAppDomainCore.runtimeconfig.json
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\02_ListAppDomainCore\ListAppDomainCore\bin\Debug\net6.0\ListAppDomainCore.dll
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\02_ListAppDomainCore\ListAppDomainCore\bin\Debug\net6.0\ListAppDomainCore.pdb
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\02_ListAppDomainCore\ListAppDomainCore\obj\Debug\net6.0\ListAppDomainCore.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\02_ListAppDomainCore\ListAppDomainCore\obj\Debug\net6.0\ListAppDomainCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\02_ListAppDomainCore\ListAppDomainCore\obj\Debug\net6.0\ListAppDomainCore.AssemblyInfoInputs.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\02_ListAppDomainCore\ListAppDomainCore\obj\Debug\net6.0\ListAppDomainCore.AssemblyInfo.cs
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\02_ListAppDomainCore\ListAppDomainCore\obj\Debug\net6.0\ListAppDomainCore.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\02_ListAppDomainCore\ListAppDomainCore\obj\Debug\net6.0\ListAppDomainCore.dll
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\02_ListAppDomainCore\ListAppDomainCore\obj\Debug\net6.0\refint\ListAppDomainCore.dll
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\02_ListAppDomainCore\ListAppDomainCore\obj\Debug\net6.0\ListAppDomainCore.pdb
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\02_ListAppDomainCore\ListAppDomainCore\obj\Debug\net6.0\ListAppDomainCore.genruntimeconfig.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\02_ListAppDomainCore\ListAppDomainCore\obj\Debug\net6.0\ref\ListAppDomainCore.dll

@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\05_ModulesInAction\ModulesInAction\bin\Release\ListAllProcessModules.exe.config
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\05_ModulesInAction\ModulesInAction\bin\Release\ListAllProcessModules.exe
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\05_ModulesInAction\ModulesInAction\bin\Release\ListAllProcessModules.pdb
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\05_ModulesInAction\ModulesInAction\obj\Release\ModulesInAction.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\05_ModulesInAction\ModulesInAction\obj\Release\ModulesInAction.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\05_ModulesInAction\ModulesInAction\obj\Release\ModulesInAction.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\05_ModulesInAction\ModulesInAction\obj\Release\ListAllProcessModules.exe
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\05_ModulesInAction\ModulesInAction\obj\Release\ListAllProcessModules.pdb

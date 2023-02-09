@@ -1,0 +1,15 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230207\03_ProcessSampleNetCore\ProcessSample\bin\Release\net6.0\ProcessSample.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230207\03_ProcessSampleNetCore\ProcessSample\bin\Release\net6.0\ProcessSample.deps.json
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230207\03_ProcessSampleNetCore\ProcessSample\bin\Release\net6.0\ProcessSample.runtimeconfig.json
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230207\03_ProcessSampleNetCore\ProcessSample\bin\Release\net6.0\ProcessSample.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230207\03_ProcessSampleNetCore\ProcessSample\bin\Release\net6.0\ProcessSample.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230207\03_ProcessSampleNetCore\ProcessSample\obj\Release\net6.0\ProcessSample.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230207\03_ProcessSampleNetCore\ProcessSample\obj\Release\net6.0\ProcessSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230207\03_ProcessSampleNetCore\ProcessSample\obj\Release\net6.0\ProcessSample.AssemblyInfoInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230207\03_ProcessSampleNetCore\ProcessSample\obj\Release\net6.0\ProcessSample.AssemblyInfo.cs
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230207\03_ProcessSampleNetCore\ProcessSample\obj\Release\net6.0\ProcessSample.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230207\03_ProcessSampleNetCore\ProcessSample\obj\Release\net6.0\ProcessSample.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230207\03_ProcessSampleNetCore\ProcessSample\obj\Release\net6.0\refint\ProcessSample.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230207\03_ProcessSampleNetCore\ProcessSample\obj\Release\net6.0\ProcessSample.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230207\03_ProcessSampleNetCore\ProcessSample\obj\Release\net6.0\ProcessSample.genruntimeconfig.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230207\03_ProcessSampleNetCore\ProcessSample\obj\Release\net6.0\ref\ProcessSample.dll

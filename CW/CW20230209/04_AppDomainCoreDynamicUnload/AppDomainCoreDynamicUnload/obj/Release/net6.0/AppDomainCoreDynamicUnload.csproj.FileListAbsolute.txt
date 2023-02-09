@@ -1,0 +1,15 @@
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\04_AppDomainCoreDynamicUnload\AppDomainCoreDynamicUnload\bin\Release\net6.0\AppDomainCoreDynamicUnload.exe
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\04_AppDomainCoreDynamicUnload\AppDomainCoreDynamicUnload\bin\Release\net6.0\AppDomainCoreDynamicUnload.deps.json
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\04_AppDomainCoreDynamicUnload\AppDomainCoreDynamicUnload\bin\Release\net6.0\AppDomainCoreDynamicUnload.runtimeconfig.json
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\04_AppDomainCoreDynamicUnload\AppDomainCoreDynamicUnload\bin\Release\net6.0\AppDomainCoreDynamicUnload.dll
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\04_AppDomainCoreDynamicUnload\AppDomainCoreDynamicUnload\bin\Release\net6.0\AppDomainCoreDynamicUnload.pdb
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\04_AppDomainCoreDynamicUnload\AppDomainCoreDynamicUnload\obj\Release\net6.0\AppDomainCoreDynamicUnload.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\04_AppDomainCoreDynamicUnload\AppDomainCoreDynamicUnload\obj\Release\net6.0\AppDomainCoreDynamicUnload.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\04_AppDomainCoreDynamicUnload\AppDomainCoreDynamicUnload\obj\Release\net6.0\AppDomainCoreDynamicUnload.AssemblyInfoInputs.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\04_AppDomainCoreDynamicUnload\AppDomainCoreDynamicUnload\obj\Release\net6.0\AppDomainCoreDynamicUnload.AssemblyInfo.cs
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\04_AppDomainCoreDynamicUnload\AppDomainCoreDynamicUnload\obj\Release\net6.0\AppDomainCoreDynamicUnload.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\04_AppDomainCoreDynamicUnload\AppDomainCoreDynamicUnload\obj\Release\net6.0\AppDomainCoreDynamicUnload.dll
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\04_AppDomainCoreDynamicUnload\AppDomainCoreDynamicUnload\obj\Release\net6.0\refint\AppDomainCoreDynamicUnload.dll
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\04_AppDomainCoreDynamicUnload\AppDomainCoreDynamicUnload\obj\Release\net6.0\AppDomainCoreDynamicUnload.pdb
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\04_AppDomainCoreDynamicUnload\AppDomainCoreDynamicUnload\obj\Release\net6.0\AppDomainCoreDynamicUnload.genruntimeconfig.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\04_AppDomainCoreDynamicUnload\AppDomainCoreDynamicUnload\obj\Release\net6.0\ref\AppDomainCoreDynamicUnload.dll

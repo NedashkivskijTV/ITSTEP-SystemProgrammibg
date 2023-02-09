@@ -1,0 +1,17 @@
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\bin\Release\ProcessManipulation.exe.config
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\bin\Release\ProcessManipulation.exe
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\bin\Release\ProcessManipulation.pdb
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\bin\Release\ChildProcess1.exe
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\bin\Release\ChildProcess2.exe
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\bin\Release\ChildProcess2.pdb
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\bin\Release\ChildProcess2.exe.config
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\bin\Release\ChildProcess1.pdb
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\bin\Release\ChildProcess1.exe.config
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\obj\Release\ProcessManipulation.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\obj\Release\ProcessManipulation.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\obj\Release\ProcessManipulation.MainWindow.resources
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\obj\Release\ProcessManipulation.csproj.GenerateResource.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\obj\Release\ProcessManipulation.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\obj\Release\ProcessManipulation.csproj.CopyComplete
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\obj\Release\ProcessManipulation.exe
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\06_ProcessManipulation\ProcessManipulation\obj\Release\ProcessManipulation.pdb

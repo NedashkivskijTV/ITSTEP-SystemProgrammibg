@@ -1,0 +1,11 @@
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\01_CalcRunner\CalcRunner\bin\Debug\CalcRunner.exe.config
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\01_CalcRunner\CalcRunner\bin\Debug\CalcRunner.exe
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\01_CalcRunner\CalcRunner\bin\Debug\CalcRunner.pdb
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\01_CalcRunner\CalcRunner\obj\Debug\CalcRunner.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\01_CalcRunner\CalcRunner\obj\Debug\CalcRunner.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\01_CalcRunner\CalcRunner\obj\Debug\CalcRunner.CalcRunner.resources
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\01_CalcRunner\CalcRunner\obj\Debug\CalcRunner.Properties.Resources.resources
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\01_CalcRunner\CalcRunner\obj\Debug\CalcRunner.csproj.GenerateResource.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\01_CalcRunner\CalcRunner\obj\Debug\CalcRunner.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\01_CalcRunner\CalcRunner\obj\Debug\CalcRunner.exe
+D:\ITSTEP\SystemPrograming\L-03\Module2-4_Урок1\Урок1\Sources\01_CalcRunner\CalcRunner\obj\Debug\CalcRunner.pdb

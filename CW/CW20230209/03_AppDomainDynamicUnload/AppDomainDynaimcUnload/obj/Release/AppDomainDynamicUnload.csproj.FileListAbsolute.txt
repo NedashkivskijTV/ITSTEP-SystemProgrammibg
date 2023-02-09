@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\03_AppDomainDynamicUnload\AppDomainDynaimcUnload\bin\Release\AppDomainSample.exe.config
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\03_AppDomainDynamicUnload\AppDomainDynaimcUnload\bin\Release\AppDomainSample.exe
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\03_AppDomainDynamicUnload\AppDomainDynaimcUnload\bin\Release\AppDomainSample.pdb
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\03_AppDomainDynamicUnload\AppDomainDynaimcUnload\obj\Release\AppDomainDynamicUnload.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\03_AppDomainDynamicUnload\AppDomainDynaimcUnload\obj\Release\AppDomainDynamicUnload.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\03_AppDomainDynamicUnload\AppDomainDynaimcUnload\obj\Release\AppDomainDynamicUnload.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\03_AppDomainDynamicUnload\AppDomainDynaimcUnload\obj\Release\AppDomainSample.exe
+D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\03_AppDomainDynamicUnload\AppDomainDynaimcUnload\obj\Release\AppDomainSample.pdb
