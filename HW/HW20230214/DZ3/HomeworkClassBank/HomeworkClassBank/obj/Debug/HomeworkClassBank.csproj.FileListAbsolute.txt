@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230214\DZ3\HomeworkClassBank\HomeworkClassBank\bin\Debug\HomeworkClassBank.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230214\DZ3\HomeworkClassBank\HomeworkClassBank\bin\Debug\HomeworkClassBank.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230214\DZ3\HomeworkClassBank\HomeworkClassBank\bin\Debug\HomeworkClassBank.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230214\DZ3\HomeworkClassBank\HomeworkClassBank\obj\Debug\HomeworkClassBank.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230214\DZ3\HomeworkClassBank\HomeworkClassBank\obj\Debug\HomeworkClassBank.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230214\DZ3\HomeworkClassBank\HomeworkClassBank\obj\Debug\HomeworkClassBank.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230214\DZ3\HomeworkClassBank\HomeworkClassBank\obj\Debug\HomeworkClassBank.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230214\DZ3\HomeworkClassBank\HomeworkClassBank\obj\Debug\HomeworkClassBank.pdb

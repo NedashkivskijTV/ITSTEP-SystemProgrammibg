@@ -6,3 +6,11 @@ D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\09_Po
 D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\09_PoolApplication\PoolApplication\obj\Debug\PoolApplication.csproj.CoreCompileInputs.cache
 D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\09_PoolApplication\PoolApplication\obj\Debug\PoolApplication.exe
 D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\09_PoolApplication\PoolApplication\obj\Debug\PoolApplication.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\09_PoolApplication\PoolApplication\bin\Debug\PoolApplication.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\09_PoolApplication\PoolApplication\bin\Debug\PoolApplication.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\09_PoolApplication\PoolApplication\bin\Debug\PoolApplication.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\09_PoolApplication\PoolApplication\obj\Debug\PoolApplication.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\09_PoolApplication\PoolApplication\obj\Debug\PoolApplication.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\09_PoolApplication\PoolApplication\obj\Debug\PoolApplication.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\09_PoolApplication\PoolApplication\obj\Debug\PoolApplication.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\09_PoolApplication\PoolApplication\obj\Debug\PoolApplication.pdb
