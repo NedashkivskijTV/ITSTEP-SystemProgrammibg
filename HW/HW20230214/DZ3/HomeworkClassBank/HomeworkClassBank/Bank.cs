@@ -23,6 +23,7 @@ namespace HomeworkClassBank
             Money = money;
             Name = name;
             Percent = percent;
+            SaveNewInfo();
         }
 
         public void SetName(string newName)

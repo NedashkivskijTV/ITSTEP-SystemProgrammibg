@@ -33,8 +33,7 @@ namespace HomeworkClassBank
 
             bank.SetPercent(1);
 
-            Console.WriteLine();
-            Console.WriteLine(bank);
+            Console.WriteLine("\n" + bank + "\n");
             //Console.WriteLine(bankOfAmerica);
         }
     }
