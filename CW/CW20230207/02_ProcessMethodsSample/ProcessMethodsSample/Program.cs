@@ -7,13 +7,13 @@ namespace ProcessMethodsSample
     {
         static void Main(string[] args)
         {
-            Console.Title = "Прмер запуска процесса";
+            Console.Title = "Пример запуска процесса";
             //Объявляем объект класса Process
             Process proc = new Process();
             //устанавливаем имя файла, который будет запущен в рамках процесса
             proc.StartInfo.FileName = "notepad.exe";
 
-            try
+            try // блок використовується на випадок відсутності додатку з вказаним ім'ям (в т.ч. помилка оператора)
             {
                 //запускаем проуцесс
                 proc.Start();
@@ -31,7 +31,6 @@ namespace ProcessMethodsSample
             {
                 Console.WriteLine($"Ошибка {Ex.Message}");
             }
-
             finally
             {
                 proc.Dispose();

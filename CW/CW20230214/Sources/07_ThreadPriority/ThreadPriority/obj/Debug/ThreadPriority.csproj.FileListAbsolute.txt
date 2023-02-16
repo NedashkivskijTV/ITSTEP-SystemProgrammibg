@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\07_ThreadPriority\ThreadPriority\bin\Debug\ThreadPriority.exe.config
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\07_ThreadPriority\ThreadPriority\bin\Debug\ThreadPriority.exe
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\07_ThreadPriority\ThreadPriority\bin\Debug\ThreadPriority.pdb
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\07_ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\07_ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\07_ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\07_ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.exe
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\07_ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.pdb

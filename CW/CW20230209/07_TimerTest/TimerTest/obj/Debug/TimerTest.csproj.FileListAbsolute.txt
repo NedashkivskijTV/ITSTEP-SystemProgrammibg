@@ -6,3 +6,11 @@ D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\07_TimerTe
 D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\07_TimerTest\TimerTest\obj\Debug\TimerTest.csproj.CoreCompileInputs.cache
 D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\07_TimerTest\TimerTest\obj\Debug\TimerTest.exe
 D:\ITSTEP\SystemPrograming\L-04\Module2-4_Урок2\Урок2\Sources\07_TimerTest\TimerTest\obj\Debug\TimerTest.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230209\07_TimerTest\TimerTest\bin\Debug\TimerTest.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230209\07_TimerTest\TimerTest\bin\Debug\TimerTest.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230209\07_TimerTest\TimerTest\bin\Debug\TimerTest.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230209\07_TimerTest\TimerTest\obj\Debug\TimerTest.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230209\07_TimerTest\TimerTest\obj\Debug\TimerTest.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230209\07_TimerTest\TimerTest\obj\Debug\TimerTest.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230209\07_TimerTest\TimerTest\obj\Debug\TimerTest.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230209\07_TimerTest\TimerTest\obj\Debug\TimerTest.pdb

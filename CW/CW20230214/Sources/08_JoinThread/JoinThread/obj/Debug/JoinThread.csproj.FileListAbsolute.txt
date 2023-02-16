@@ -1,0 +1,16 @@
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\08_JoinThread\JoinThread\bin\Debug\JoinThread.exe.config
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\08_JoinThread\JoinThread\bin\Debug\JoinThread.exe
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\08_JoinThread\JoinThread\bin\Debug\JoinThread.pdb
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\08_JoinThread\JoinThread\obj\Debug\JoinThread.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\08_JoinThread\JoinThread\obj\Debug\JoinThread.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\08_JoinThread\JoinThread\obj\Debug\JoinThread.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\08_JoinThread\JoinThread\obj\Debug\JoinThread.exe
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\08_JoinThread\JoinThread\obj\Debug\JoinThread.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\08_JoinThread\JoinThread\bin\Debug\JoinThread.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\08_JoinThread\JoinThread\bin\Debug\JoinThread.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\08_JoinThread\JoinThread\bin\Debug\JoinThread.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\08_JoinThread\JoinThread\obj\Debug\JoinThread.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\08_JoinThread\JoinThread\obj\Debug\JoinThread.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\08_JoinThread\JoinThread\obj\Debug\JoinThread.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\08_JoinThread\JoinThread\obj\Debug\JoinThread.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\08_JoinThread\JoinThread\obj\Debug\JoinThread.pdb

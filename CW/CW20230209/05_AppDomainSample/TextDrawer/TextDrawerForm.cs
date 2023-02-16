@@ -29,6 +29,7 @@ namespace TextDrawer
         {
             /*сохраняем новое значение переменной SourceText*/
             SourceText = text;
+
             /*инициируем перерисовку окна*/
             Panel1_Paint(panel1, new PaintEventArgs(panel1.CreateGraphics(), panel1.ClientRectangle));
         }
@@ -40,12 +41,16 @@ namespace TextDrawer
                 /*создаём буферное изображение, основываясь на размерах 
                  * клиентской части элемента управления Panel*/
                 Image img = new Bitmap(panel1.ClientRectangle.Width, panel1.ClientRectangle.Height);
+
                 /*получаем графический контектс созданого нами изображения*/
                 Graphics imgDC = Graphics.FromImage(img);
+
                 /*очищаем изображение используя цвет фона окна*/
                 imgDC.Clear(BackColor);
+
                 /*прорисовываем на элементе кправления Panel текст используя выбранный шрифт*/
                 imgDC.DrawString(SourceText, DrawingFont, Brushes.Brown, ClientRectangle, new StringFormat(StringFormatFlags.NoFontFallback));
+
                 /*прорисовываем изображение на элементе управления Panel*/
                 e.Graphics.DrawImage(img, 0, 0);
             }
@@ -55,12 +60,15 @@ namespace TextDrawer
         {
             /*создаём объект стандартного диалога FontDialog*/
             FontDialog dlg = new FontDialog();
+
             /*инициализируем объект шрифта для диалога*/
             dlg.Font = DrawingFont;
+
             /*открываем диалог модально*/
             if (dlg.ShowDialog() == DialogResult.OK)
                 /*если была нажата кнопка OK, сохраняем выбранные настройки*/
                 DrawingFont = dlg.Font;
+
             /*инициируем перерисовку элемента управления Panel*/
             Panel1_Paint(panel1, new PaintEventArgs(panel1.CreateGraphics(), panel1.ClientRectangle));
         }
@@ -69,6 +77,7 @@ namespace TextDrawer
         {
             /*устанавливаем новое значение позиции окна*/
             this.Location = newLocation;
+
             /*устанавливаем новое значение ширины окна*/
             this.Width = width;
         }

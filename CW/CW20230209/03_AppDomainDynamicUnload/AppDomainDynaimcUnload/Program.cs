@@ -6,7 +6,8 @@ namespace AppDomainSample
 {
     class Program
     {
-        [LoaderOptimization(LoaderOptimization.SingleDomain)]
+        // Атрибут, що вказує механізм завантаження збірки
+        [LoaderOptimization(LoaderOptimization.SingleDomain)] 
         static void Main(string[] args)
         {
             string name_dll = "SampleLibrary"; 
@@ -33,6 +34,7 @@ namespace AppDomainSample
                 }
                 //Var1 получаем модуль, из которого будем осуществлять вызов
 
+
                 //Var2 однострочный вариант вызова того же метода через анонимные объекты
                 asm.GetModule(name_dll + ".dll")
                    //.GetTypes()
@@ -42,13 +44,14 @@ namespace AppDomainSample
                    .GetMethod(name_method)
                    .Invoke(null, null);
                 //Var2 однострочный вариант вызова того же метода через анонимные объекты
+
             }
             catch (Exception ex) 
             {
                 Console.WriteLine(ex.Message);
             }
 
-            //отгружаем домен приложения
+            // Вигружаем домен приложения
             AppDomain.Unload(Domain);
         }
     }

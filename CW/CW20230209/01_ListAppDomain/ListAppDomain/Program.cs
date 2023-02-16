@@ -50,7 +50,7 @@ namespace ListAppDomain
             // домен текущего приложения
             AppDomain baseDomain = AppDomain.CurrentDomain;
 
-            //создаём домен приложения с приозвольным именем
+            // создаём домен приложения с приозвольным именем
             AppDomain addDomain1 = AppDomain.CreateDomain("AppDomain1");
             AppDomain addDomain2 = AppDomain.CreateDomain("AppDomain2");
 
@@ -58,7 +58,7 @@ namespace ListAppDomain
             PrintInfo(addDomain1);
             PrintInfo(addDomain2);
 
-            //отгружаем домен приложения
+            // Вигружаем домен приложения
             AppDomain.Unload(addDomain1);
             AppDomain.Unload(addDomain2);
 

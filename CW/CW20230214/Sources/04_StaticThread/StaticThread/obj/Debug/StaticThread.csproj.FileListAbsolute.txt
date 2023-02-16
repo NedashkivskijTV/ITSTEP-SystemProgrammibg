@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\04_StaticThread\StaticThread\bin\Debug\StaticThread.exe.config
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\04_StaticThread\StaticThread\bin\Debug\StaticThread.exe
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\04_StaticThread\StaticThread\bin\Debug\StaticThread.pdb
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\04_StaticThread\StaticThread\obj\Debug\StaticThread.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\04_StaticThread\StaticThread\obj\Debug\StaticThread.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\04_StaticThread\StaticThread\obj\Debug\StaticThread.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\04_StaticThread\StaticThread\obj\Debug\StaticThread.exe
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\04_StaticThread\StaticThread\obj\Debug\StaticThread.pdb

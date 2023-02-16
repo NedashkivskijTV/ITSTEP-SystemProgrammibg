@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadParametrNetCore", "ThreadParametrNetCore\ThreadParametrNetCore.csproj", "{91BA71AB-49E5-4A11-B877-644560F80E68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91BA71AB-49E5-4A11-B877-644560F80E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BA71AB-49E5-4A11-B877-644560F80E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BA71AB-49E5-4A11-B877-644560F80E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BA71AB-49E5-4A11-B877-644560F80E68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21A739DF-4A69-46E3-A1A5-F6D0EABE01BC}
+	EndGlobalSection
+EndGlobal

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yEDRCMBIDqPbzyCP2d4hG6IUwL+ksvkz8hCLCyOMauHQuU0XWsAhdyIBgja9dkqN29HcxNlGuBRfzIVCIN16Ww==",
+  "dgSpecHash": "V/wh4ycrsXQRAYR1wm7L6OMzbZ0TBydzh6hIQ/IwnFGvyvPJ+iyzHzHtClWa+IoBcXYxrIUuEtwgoj1mG2/ufw==",
   "success": true,
-  "projectFilePath": "D:\\ITSTEP\\SystemPrograming\\L-04\\Module2-4_Урок2\\Урок2\\Sources\\04_AppDomainCoreDynamicUnload\\AppDomainCoreDynamicUnload\\AppDomainCoreDynamicUnload.csproj",
+  "projectFilePath": "D:\\ITSTEP\\SystemPrograming\\GIT\\ITSTEP-SystemProgramming\\CW\\CW20230209\\04_AppDomainCoreDynamicUnload\\AppDomainCoreDynamicUnload\\AppDomainCoreDynamicUnload.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

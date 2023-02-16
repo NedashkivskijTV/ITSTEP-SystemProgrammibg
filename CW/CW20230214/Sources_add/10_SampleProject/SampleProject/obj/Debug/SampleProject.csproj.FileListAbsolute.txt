@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources_add\10_SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources_add\10_SampleProject\SampleProject\bin\Debug\SampleProject.exe
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources_add\10_SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources_add\10_SampleProject\SampleProject\obj\Debug\SampleProject.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources_add\10_SampleProject\SampleProject\obj\Debug\SampleProject.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources_add\10_SampleProject\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources_add\10_SampleProject\SampleProject\obj\Debug\SampleProject.exe
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources_add\10_SampleProject\SampleProject\obj\Debug\SampleProject.pdb

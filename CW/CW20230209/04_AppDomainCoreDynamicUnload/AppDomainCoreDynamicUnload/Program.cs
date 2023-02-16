@@ -11,7 +11,7 @@ namespace HelloApp
         {
             LoadAssembly(6);
             
-            // очистка
+            // очистка - збірка сміття, що залишилось після роботи програми
             GC.Collect();
             GC.WaitForPendingFinalizers();
 
@@ -24,12 +24,14 @@ namespace HelloApp
 
         private static void LoadAssembly(int number)
         {
-            var context = new AssemblyLoadContext("Factorial", true);
+            // Створення контексту для подальшого завантаження збірок (заміна домену додатка)
+            var context = new AssemblyLoadContext(name: "Factorial",isCollectible: true);
 
             try
             {
                 // получаем путь к сборке MyApp
                 var assemblyPath = Path.Combine(Directory.GetCurrentDirectory(), "MyApp.dll");
+                
                 // загружаем сборку
                 Assembly assembly = context.LoadFromAssemblyPath(assemblyPath);
 
@@ -40,6 +42,7 @@ namespace HelloApp
 
                 // получаем тип Program из сборки MyApp.dll
                 var type = assembly.GetType("MyApp.Program");
+
                 // получаем его метод Factorial
                 var greetMethod = type.GetMethod("Factorial");
 

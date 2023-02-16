@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ITSTEP\\SystemPrograming\\L-04\\Module2-4_Урок2\\Урок2\\Sources\\04_AppDomainCoreDynamicUnload\\AppDomainCoreDynamicUnload\\AppDomainCoreDynamicUnload.csproj",
+      "projectUniqueName": "D:\\ITSTEP\\SystemPrograming\\GIT\\ITSTEP-SystemProgramming\\CW\\CW20230209\\04_AppDomainCoreDynamicUnload\\AppDomainCoreDynamicUnload\\AppDomainCoreDynamicUnload.csproj",
       "projectName": "AppDomainCoreDynamicUnload",
-      "projectPath": "D:\\ITSTEP\\SystemPrograming\\L-04\\Module2-4_Урок2\\Урок2\\Sources\\04_AppDomainCoreDynamicUnload\\AppDomainCoreDynamicUnload\\AppDomainCoreDynamicUnload.csproj",
+      "projectPath": "D:\\ITSTEP\\SystemPrograming\\GIT\\ITSTEP-SystemProgramming\\CW\\CW20230209\\04_AppDomainCoreDynamicUnload\\AppDomainCoreDynamicUnload\\AppDomainCoreDynamicUnload.csproj",
       "packagesPath": "C:\\Users\\TarasN\\.nuget\\packages\\",
-      "outputPath": "D:\\ITSTEP\\SystemPrograming\\L-04\\Module2-4_Урок2\\Урок2\\Sources\\04_AppDomainCoreDynamicUnload\\AppDomainCoreDynamicUnload\\obj\\",
+      "outputPath": "D:\\ITSTEP\\SystemPrograming\\GIT\\ITSTEP-SystemProgramming\\CW\\CW20230209\\04_AppDomainCoreDynamicUnload\\AppDomainCoreDynamicUnload\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

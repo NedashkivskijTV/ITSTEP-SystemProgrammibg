@@ -14,12 +14,16 @@ namespace ModulesInAction
             Console.WindowWidth = 50;
             Console.BufferWidth = 50;
 
+            // Динамическое подключение сборки
             //загружаем сборку
             Assembly asm = Assembly.Load(AssemblyName.GetAssemblyName(name_dll+".dll"));
+
             //получаем необходимый модуль этой сборки
             Module mod = asm.GetModule(name_dll+".dll");
+
             //выводим список типов данных, объявленный в текущем модуле
             Console.WriteLine("Объявленные типы данных:");
+
             //получаем типы данных из сборки
             foreach (Type t in mod.GetTypes())
             {

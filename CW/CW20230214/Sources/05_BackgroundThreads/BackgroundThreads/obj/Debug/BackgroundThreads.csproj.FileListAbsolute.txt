@@ -1,0 +1,16 @@
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\05_BackgroundThreads\BackgroundThreads\bin\Debug\BackgroundThreads.exe.config
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\05_BackgroundThreads\BackgroundThreads\bin\Debug\BackgroundThreads.exe
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\05_BackgroundThreads\BackgroundThreads\bin\Debug\BackgroundThreads.pdb
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\05_BackgroundThreads\BackgroundThreads\obj\Debug\BackgroundThreads.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\05_BackgroundThreads\BackgroundThreads\obj\Debug\BackgroundThreads.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\05_BackgroundThreads\BackgroundThreads\obj\Debug\BackgroundThreads.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\05_BackgroundThreads\BackgroundThreads\obj\Debug\BackgroundThreads.exe
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\05_BackgroundThreads\BackgroundThreads\obj\Debug\BackgroundThreads.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\05_BackgroundThreads\BackgroundThreads\bin\Debug\BackgroundThreads.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\05_BackgroundThreads\BackgroundThreads\bin\Debug\BackgroundThreads.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\05_BackgroundThreads\BackgroundThreads\bin\Debug\BackgroundThreads.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\05_BackgroundThreads\BackgroundThreads\obj\Debug\BackgroundThreads.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\05_BackgroundThreads\BackgroundThreads\obj\Debug\BackgroundThreads.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\05_BackgroundThreads\BackgroundThreads\obj\Debug\BackgroundThreads.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\05_BackgroundThreads\BackgroundThreads\obj\Debug\BackgroundThreads.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\05_BackgroundThreads\BackgroundThreads\obj\Debug\BackgroundThreads.pdb

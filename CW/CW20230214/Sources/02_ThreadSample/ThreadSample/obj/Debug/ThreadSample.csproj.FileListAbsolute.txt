@@ -1,0 +1,16 @@
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\02_ThreadSample\ThreadSample\bin\Debug\ThreadSample.exe.config
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\02_ThreadSample\ThreadSample\bin\Debug\ThreadSample.exe
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\02_ThreadSample\ThreadSample\bin\Debug\ThreadSample.pdb
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\02_ThreadSample\ThreadSample\obj\Debug\ThreadSample.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\02_ThreadSample\ThreadSample\obj\Debug\ThreadSample.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\02_ThreadSample\ThreadSample\obj\Debug\ThreadSample.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\02_ThreadSample\ThreadSample\obj\Debug\ThreadSample.exe
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\02_ThreadSample\ThreadSample\obj\Debug\ThreadSample.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\02_ThreadSample\ThreadSample\bin\Debug\ThreadSample.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\02_ThreadSample\ThreadSample\bin\Debug\ThreadSample.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\02_ThreadSample\ThreadSample\bin\Debug\ThreadSample.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\02_ThreadSample\ThreadSample\obj\Debug\ThreadSample.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\02_ThreadSample\ThreadSample\obj\Debug\ThreadSample.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\02_ThreadSample\ThreadSample\obj\Debug\ThreadSample.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\02_ThreadSample\ThreadSample\obj\Debug\ThreadSample.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources\02_ThreadSample\ThreadSample\obj\Debug\ThreadSample.pdb

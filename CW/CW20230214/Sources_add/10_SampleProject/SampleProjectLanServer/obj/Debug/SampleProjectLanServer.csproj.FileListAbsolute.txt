@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources_add\10_SampleProject\SampleProjectLanServer\bin\Debug\SampleProjectLanServer.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources_add\10_SampleProject\SampleProjectLanServer\bin\Debug\SampleProjectLanServer.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources_add\10_SampleProject\SampleProjectLanServer\bin\Debug\SampleProjectLanServer.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources_add\10_SampleProject\SampleProjectLanServer\obj\Debug\SampleProjectLanServer.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources_add\10_SampleProject\SampleProjectLanServer\obj\Debug\SampleProjectLanServer.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources_add\10_SampleProject\SampleProjectLanServer\obj\Debug\SampleProjectLanServer.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources_add\10_SampleProject\SampleProjectLanServer\obj\Debug\SampleProjectLanServer.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230214\Sources_add\10_SampleProject\SampleProjectLanServer\obj\Debug\SampleProjectLanServer.pdb

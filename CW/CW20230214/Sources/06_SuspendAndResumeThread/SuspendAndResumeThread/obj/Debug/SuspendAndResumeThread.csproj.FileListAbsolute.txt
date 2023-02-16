@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\06_SuspendAndResumeThread\SuspendAndResumeThread\bin\Debug\SuspendAndResumeThread.exe.config
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\06_SuspendAndResumeThread\SuspendAndResumeThread\bin\Debug\SuspendAndResumeThread.exe
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\06_SuspendAndResumeThread\SuspendAndResumeThread\bin\Debug\SuspendAndResumeThread.pdb
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\06_SuspendAndResumeThread\SuspendAndResumeThread\obj\Debug\SuspendAndResumeThread.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\06_SuspendAndResumeThread\SuspendAndResumeThread\obj\Debug\SuspendAndResumeThread.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\06_SuspendAndResumeThread\SuspendAndResumeThread\obj\Debug\SuspendAndResumeThread.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\06_SuspendAndResumeThread\SuspendAndResumeThread\obj\Debug\SuspendAndResumeThread.exe
+D:\ITSTEP\SystemPrograming\L-05_code\Module2-4_Урок3\Урок3\Sources\06_SuspendAndResumeThread\SuspendAndResumeThread\obj\Debug\SuspendAndResumeThread.pdb

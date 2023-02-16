@@ -16,13 +16,17 @@ namespace TimerSample
             // Сокращенный вариант
             Timer timer = new Timer(TimerTick);
 
-            timer.Change(1000, 1000); // Запуск таймера.
+            // Запуск таймера.
+            // Параметри у мілісекундах: 1-затримка першого стартуб 2-інтервал повторення
+            timer.Change(1000, 1000); 
 
             Console.ReadKey(); // Задержка.
+
+            // Звільнення ресурсів, виділених під таймер, завершення роботи таймера
             timer.Dispose();
         }
 
-        static void TimerTick(object obj)
+        static void TimerTick(object obj) // колбек метод отримує у параметрах таймер який його викликає - для реалізації можливості керування таймером з методу
         {
             //// Var1
             //Console.WriteLine("Hello in timer");

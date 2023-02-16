@@ -37,8 +37,10 @@ namespace ProcessManipulation
         {
             //название файла сборки текущего приложения
             string except = new FileInfo(Application.ExecutablePath).Name;
+            
             //получаем название файла без расширения
             except =  except.Substring(0, except.IndexOf("."));
+            
             //получаем все *.exe файлы из домашней директории
             string[] files = Directory.GetFiles(Application.StartupPath, "*.exe");
             foreach (var file in files)
@@ -59,22 +61,29 @@ namespace ProcessManipulation
             {
                 //запускаем процесс на основании исполняемого файла
                 Process proc = Process.Start(AssamblyName);
+
                 //добавляем процесс в список
                 Processes.Add(proc);
+
                 /*проверяем, стал ли созданный процесс дочерним, 
                  по отношению к текущему и, если стал, выводим MessageBox*/
                 if (Process.GetCurrentProcess().Id == GetParentProcessId(proc.Id))
                     MessageBox.Show(proc.ProcessName + " действительно дочерний процесс текущего процесса!");
+
                 /*указываем, что процесс должен генерировать собития*/
                 proc.EnableRaisingEvents = true;
+
                 //добавляем обработчик на событие завершения процесса
                 proc.Exited += proc_Exited;
+
                 /*устанавливаем новый текст главному окну дочернего процесса*/
                 SetChildWindowText(proc.MainWindowHandle, "Childs process #" + (++Counter));
+
                 /*проверяем, запускали ли мы экземпляр такого приложения 
                  и, если нет, то добавляем в список запущенных приложений*/
                 if (!StartedAssemblies.Items.Contains(proc.ProcessName))
                     StartedAssemblies.Items.Add(proc.ProcessName);
+
                 /*убираем приложение из списка доступных приложений*/
                 if (AssamblyName == AvailableAssemblies.SelectedItem.ToString())
                     AvailableAssemblies.Items.Remove(AvailableAssemblies.SelectedItem);

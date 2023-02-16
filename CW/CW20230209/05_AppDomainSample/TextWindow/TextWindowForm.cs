@@ -2,6 +2,7 @@
 using System.Drawing;
 using System.Reflection;
 using System.Windows.Forms;
+
 namespace TextWindow
 {
     public partial class TextWindowForm : Form
