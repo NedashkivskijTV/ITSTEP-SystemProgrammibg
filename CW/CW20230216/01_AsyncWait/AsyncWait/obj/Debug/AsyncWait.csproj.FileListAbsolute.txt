@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\01_AsyncWait\AsyncWait\bin\Debug\AsyncWait.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\01_AsyncWait\AsyncWait\bin\Debug\AsyncWait.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\01_AsyncWait\AsyncWait\bin\Debug\AsyncWait.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\01_AsyncWait\AsyncWait\obj\Debug\AsyncWait.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\01_AsyncWait\AsyncWait\obj\Debug\AsyncWait.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\01_AsyncWait\AsyncWait\obj\Debug\AsyncWait.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\01_AsyncWait\AsyncWait\obj\Debug\AsyncWait.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\01_AsyncWait\AsyncWait\obj\Debug\AsyncWait.pdb

@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\03_AsyncUserMethod\AsyncUserMethod\bin\Debug\AsyncUserMethod.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\03_AsyncUserMethod\AsyncUserMethod\bin\Debug\AsyncUserMethod.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\03_AsyncUserMethod\AsyncUserMethod\bin\Debug\AsyncUserMethod.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\03_AsyncUserMethod\AsyncUserMethod\obj\Debug\AsyncUserMethod.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\03_AsyncUserMethod\AsyncUserMethod\obj\Debug\AsyncUserMethod.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\03_AsyncUserMethod\AsyncUserMethod\obj\Debug\AsyncUserMethod.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\03_AsyncUserMethod\AsyncUserMethod\obj\Debug\AsyncUserMethod.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\03_AsyncUserMethod\AsyncUserMethod\obj\Debug\AsyncUserMethod.pdb

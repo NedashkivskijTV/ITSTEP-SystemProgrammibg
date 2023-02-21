@@ -7,103 +7,103 @@ namespace AsyncReadCallBack
 {
     class AsyncReadCallBackClass
     {
-        private static byte[] staticData = new byte[1000];
+        private static byte[] staticData = new byte[100];
 
         static void Main(string[] args)
         {
-            //1 Вариант метод обратного вызова (callback делегат)
-            AsyncReadOneFileCallBack();
+            ////1 Вариант метод обратного вызова (callback делегат)
+            //AsyncReadOneFileCallBack();
 
             ////2 Вариант метод обратного вызова (анонимный метод)
             //AsyncReadOneFileCallBackAnonimus();
 
-            ////3 Вариант массив методов обратного вызова (callback делегат)
-            //AsyncReadMultiplyFilesAnonimus();
+            //3 Вариант массив методов обратного вызова (callback делегат)
+            AsyncReadMultiplyFilesAnonimus();
         }
 
-        //1 Вариант метод обратного вызова (callback делегат)
-        private static void AsyncReadOneFileCallBack()
-        {
-            Console.WriteLine($"Основной поток начало ID = {Thread.CurrentThread.ManagedThreadId}\n");
+        ////1 Вариант метод обратного вызова (callback делегат)
+        //private static void AsyncReadOneFileCallBack()
+        //{
+        //    Console.WriteLine($"Основной поток начало ID = {Thread.CurrentThread.ManagedThreadId}\n");
 
-            FileStream fs = new FileStream(@"../../Program.cs", FileMode.Open,
-                                           FileAccess.Read, FileShare.Read, 1024,
-                                           FileOptions.Asynchronous);
+        //    FileStream fs = new FileStream(@"../../Program.cs", FileMode.Open,
+        //                                   FileAccess.Read, FileShare.Read, 1024,
+        //                                   FileOptions.Asynchronous);
 
-            fs.BeginRead(staticData, 0, staticData.Length, ReadIsComplete, fs);
+        //    fs.BeginRead(staticData, 0, staticData.Length, ReadIsComplete, fs);
 
-            Console.WriteLine($"Основной поток конец ID = {Thread.CurrentThread.ManagedThreadId}\n");
-            Console.ReadLine();
-        }
+        //    Console.WriteLine($"Основной поток конец ID = {Thread.CurrentThread.ManagedThreadId}\n");
+        //    Console.ReadLine();
+        //}
 
-        private static void ReadIsComplete(IAsyncResult ar)
-        {
-            FileStream fs = (FileStream)ar.AsyncState;
+        //private static void ReadIsComplete(IAsyncResult ar)
+        //{
+        //    FileStream fs = (FileStream)ar.AsyncState;
 
-            int bytesRead = fs.EndRead(ar);
+        //    int bytesRead = fs.EndRead(ar);
 
-            fs.Close();
+        //    fs.Close();
 
-            Console.WriteLine(Encoding.UTF8.GetString(staticData).Remove(0, 1));
-            Console.WriteLine($"\nЧтение в потоке ID = {Thread.CurrentThread.ManagedThreadId} закончено");
-            Console.WriteLine($"Количество считаных байт = {bytesRead}\n\n");
-        }
-        //1 Вариант метод обратного вызова (callback делегат)
-
-
-        //2 Вариант метод обратного вызова (анонимный метод)
-        private static void AsyncReadOneFileCallBackAnonimus()
-        {
-            byte[] data = new byte[1000];
-
-            Console.WriteLine($"Основной поток начало ID = {Thread.CurrentThread.ManagedThreadId} \n");
-
-            FileStream fs = new FileStream(@"../../Program.cs", FileMode.Open,
-                                           FileAccess.Read, FileShare.Read, 1024,
-                                           FileOptions.Asynchronous);
-
-            fs.BeginRead(data, 0, data.Length,
-
-                // Подвариант1 с делегатом
-                delegate (IAsyncResult ar)
-                // Подвариант1 с делегатом
-
-                //// Подвариант2 с лямбда выражением
-                //(IAsyncResult ar) =>
-                //// Подвариант2 с лямбда выражением
-
-                {
-                    int bytesRead = fs.EndRead(ar);
-
-                    fs.Close();
-
-                    Console.WriteLine(Encoding.UTF8.GetString(data).Remove(0, 1));
-                    Console.WriteLine($"\nЧтение в потоке ID = {Thread.CurrentThread.ManagedThreadId} закончено");
-                    Console.WriteLine($"Количество считаных байт = {bytesRead}\n\n");
-
-                    Console.ReadLine();
-                },
-                null);
+        //    Console.WriteLine(Encoding.UTF8.GetString(staticData).Remove(0, 1));
+        //    Console.WriteLine($"\nЧтение в потоке ID = {Thread.CurrentThread.ManagedThreadId} закончено");
+        //    Console.WriteLine($"Количество считаных байт = {bytesRead}\n\n");
+        //}
+        ////1 Вариант метод обратного вызова (callback делегат)
 
 
-            Console.WriteLine($"Основной поток конец ID = {Thread.CurrentThread.ManagedThreadId}\n");
+        ////2 Вариант метод обратного вызова (анонимный метод)
+        //private static void AsyncReadOneFileCallBackAnonimus()
+        //{
+        //    byte[] data = new byte[100];
 
-            Console.ReadLine();
-        }
+        //    Console.WriteLine($"Основной поток начало ID = {Thread.CurrentThread.ManagedThreadId} \n");
 
-    
+        //    FileStream fs = new FileStream(@"../../Program.cs", FileMode.Open,
+        //                                   FileAccess.Read, FileShare.Read, 1024,
+        //                                   FileOptions.Asynchronous);
+
+        //    fs.BeginRead(data, 0, data.Length,
+
+        //        //// Подвариант1 с делегатом
+        //        //delegate (IAsyncResult ar)
+        //        //// Подвариант1 с делегатом
+
+        //        // Подвариант2 с лямбда выражением
+        //        (IAsyncResult ar) =>
+        //        // Подвариант2 с лямбда выражением
+
+        //        {
+        //            int bytesRead = fs.EndRead(ar);
+
+        //            fs.Close();
+
+        //            Console.WriteLine(Encoding.UTF8.GetString(data).Remove(0, 1));
+        //            Console.WriteLine($"\nЧтение в потоке ID = {Thread.CurrentThread.ManagedThreadId} закончено");
+        //            Console.WriteLine($"Количество считаных байт = {bytesRead}\n\n");
+
+        //            Console.ReadLine();
+        //        },
+        //        null);
+
+
+        //    Console.WriteLine($"Основной поток конец ID = {Thread.CurrentThread.ManagedThreadId}\n");
+
+        //    Console.ReadLine();
+        //}
+
+
         //3 Вариант массив методов обратного вызова (callback делегат)
         private static void AsyncReadMultiplyFilesAnonimus()
         {
-            string[] files = {"../../Program.cs", 
-                              "../../AsyncReadCallBack.csproj", 
+            string[] files = {"../../Program.cs",
+                              "../../AsyncReadCallBack.csproj",
                               "../../Properties/AssemblyInfo.cs"};
 
             Console.WriteLine($"Основной поток начало ID = {Thread.CurrentThread.ManagedThreadId}\n");
-            
+
             for (int i = 0; i < files.Length; ++i)
                 new AsyncCallBackReader(new FileStream(files[i], FileMode.Open, FileAccess.Read,
-                                        FileShare.Read, 1024, FileOptions.Asynchronous), 500);
+                                        FileShare.Read, 1024, FileOptions.Asynchronous), 100);
 
             Console.WriteLine($"Основной поток конец ID = {Thread.CurrentThread.ManagedThreadId}\n");
             Console.ReadLine();

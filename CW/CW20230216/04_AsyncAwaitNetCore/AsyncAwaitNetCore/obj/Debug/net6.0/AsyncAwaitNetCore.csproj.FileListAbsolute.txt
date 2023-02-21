@@ -1,0 +1,15 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\04_AsyncAwaitNetCore\AsyncAwaitNetCore\bin\Debug\net6.0\AsyncAwaitNetCore.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\04_AsyncAwaitNetCore\AsyncAwaitNetCore\bin\Debug\net6.0\AsyncAwaitNetCore.deps.json
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\04_AsyncAwaitNetCore\AsyncAwaitNetCore\bin\Debug\net6.0\AsyncAwaitNetCore.runtimeconfig.json
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\04_AsyncAwaitNetCore\AsyncAwaitNetCore\bin\Debug\net6.0\AsyncAwaitNetCore.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\04_AsyncAwaitNetCore\AsyncAwaitNetCore\bin\Debug\net6.0\AsyncAwaitNetCore.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\04_AsyncAwaitNetCore\AsyncAwaitNetCore\obj\Debug\net6.0\AsyncAwaitNetCore.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\04_AsyncAwaitNetCore\AsyncAwaitNetCore\obj\Debug\net6.0\AsyncAwaitNetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\04_AsyncAwaitNetCore\AsyncAwaitNetCore\obj\Debug\net6.0\AsyncAwaitNetCore.AssemblyInfoInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\04_AsyncAwaitNetCore\AsyncAwaitNetCore\obj\Debug\net6.0\AsyncAwaitNetCore.AssemblyInfo.cs
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\04_AsyncAwaitNetCore\AsyncAwaitNetCore\obj\Debug\net6.0\AsyncAwaitNetCore.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\04_AsyncAwaitNetCore\AsyncAwaitNetCore\obj\Debug\net6.0\AsyncAwaitNetCore.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\04_AsyncAwaitNetCore\AsyncAwaitNetCore\obj\Debug\net6.0\refint\AsyncAwaitNetCore.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\04_AsyncAwaitNetCore\AsyncAwaitNetCore\obj\Debug\net6.0\AsyncAwaitNetCore.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\04_AsyncAwaitNetCore\AsyncAwaitNetCore\obj\Debug\net6.0\AsyncAwaitNetCore.genruntimeconfig.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\04_AsyncAwaitNetCore\AsyncAwaitNetCore\obj\Debug\net6.0\ref\AsyncAwaitNetCore.dll

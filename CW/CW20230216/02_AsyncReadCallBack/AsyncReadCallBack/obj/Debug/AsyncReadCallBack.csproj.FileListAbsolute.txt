@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\02_AsyncReadCallBack\AsyncReadCallBack\bin\Debug\AsyncReadCallBack.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\02_AsyncReadCallBack\AsyncReadCallBack\bin\Debug\AsyncReadCallBack.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\02_AsyncReadCallBack\AsyncReadCallBack\bin\Debug\AsyncReadCallBack.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\02_AsyncReadCallBack\AsyncReadCallBack\obj\Debug\AsyncReadCallBack.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\02_AsyncReadCallBack\AsyncReadCallBack\obj\Debug\AsyncReadCallBack.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\02_AsyncReadCallBack\AsyncReadCallBack\obj\Debug\AsyncReadCallBack.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\02_AsyncReadCallBack\AsyncReadCallBack\obj\Debug\AsyncReadCallBack.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230216\02_AsyncReadCallBack\AsyncReadCallBack\obj\Debug\AsyncReadCallBack.pdb

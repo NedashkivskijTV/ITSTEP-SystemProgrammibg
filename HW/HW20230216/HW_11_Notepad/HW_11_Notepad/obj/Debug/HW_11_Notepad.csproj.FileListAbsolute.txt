@@ -1,0 +1,14 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230216\HW_11_Notepad\HW_11_Notepad\bin\Debug\HW_11_Notepad.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230216\HW_11_Notepad\HW_11_Notepad\bin\Debug\HW_11_Notepad.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230216\HW_11_Notepad\HW_11_Notepad\bin\Debug\HW_11_Notepad.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230216\HW_11_Notepad\HW_11_Notepad\bin\Debug\Newtonsoft.Json.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230216\HW_11_Notepad\HW_11_Notepad\obj\Debug\HW_11_Notepad.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230216\HW_11_Notepad\HW_11_Notepad\obj\Debug\HW_11_Notepad.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230216\HW_11_Notepad\HW_11_Notepad\obj\Debug\HW_11_Notepad.Form1.resources
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230216\HW_11_Notepad\HW_11_Notepad\obj\Debug\HW_11_Notepad.FormStatText.resources
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230216\HW_11_Notepad\HW_11_Notepad\obj\Debug\HW_11_Notepad.Properties.Resources.resources
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230216\HW_11_Notepad\HW_11_Notepad\obj\Debug\HW_11_Notepad.csproj.GenerateResource.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230216\HW_11_Notepad\HW_11_Notepad\obj\Debug\HW_11_Notepad.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230216\HW_11_Notepad\HW_11_Notepad\obj\Debug\HW_11_Notepad.csproj.CopyComplete
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230216\HW_11_Notepad\HW_11_Notepad\obj\Debug\HW_11_Notepad.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230216\HW_11_Notepad\HW_11_Notepad\obj\Debug\HW_11_Notepad.pdb

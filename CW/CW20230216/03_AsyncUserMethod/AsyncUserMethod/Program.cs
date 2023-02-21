@@ -15,13 +15,13 @@ namespace AsyncUserMethod
 
             Console.WriteLine("Расчёт запущен...\n");
 
-            // Синхронний варіант
-            ulong res = del.Invoke(1000000);
-            Console.WriteLine("Сумма = " + res);
+            //// Синхронний варіант
+            //ulong res = del.Invoke(1000000);
+            //Console.WriteLine("Сумма = " + res);
 
 
-            //// Асинхронний варіант
-            //del.BeginInvoke(1000000, EndSum, del);
+            // Асинхронний варіант
+            del.BeginInvoke(1000000, EndSum, del);
 
             Console.WriteLine($"Основной поток конец ID = {Thread.CurrentThread.ManagedThreadId}\n");
             Console.ReadKey();
