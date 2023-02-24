@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\03_StaticTypeSync\StaticTypeSync\bin\Debug\StaticTypeSync.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\03_StaticTypeSync\StaticTypeSync\bin\Debug\StaticTypeSync.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\03_StaticTypeSync\StaticTypeSync\bin\Debug\StaticTypeSync.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\03_StaticTypeSync\StaticTypeSync\obj\Debug\StaticTypeSync.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\03_StaticTypeSync\StaticTypeSync\obj\Debug\StaticTypeSync.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\03_StaticTypeSync\StaticTypeSync\obj\Debug\StaticTypeSync.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\03_StaticTypeSync\StaticTypeSync\obj\Debug\StaticTypeSync.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\03_StaticTypeSync\StaticTypeSync\obj\Debug\StaticTypeSync.pdb

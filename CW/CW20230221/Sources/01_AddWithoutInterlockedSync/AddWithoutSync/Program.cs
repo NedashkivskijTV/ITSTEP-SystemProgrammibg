@@ -14,11 +14,11 @@ namespace AddWithoutSync
                 threads[i] = new Thread(() =>
                 {
                     for (int j = 1; j <= 1000000; ++j)
-                        // Звичайний варіант
-                        ++Counter.count;
+                        //// Звичайний варіант
+                        //++Counter.count;
 
-                       // Заблокований варіант
-                       // Interlocked.Increment(ref Counter.count);
+                        //Заблокований варіант
+                        Interlocked.Increment(ref Counter.count);
 
                 });
                 threads[i].Start();

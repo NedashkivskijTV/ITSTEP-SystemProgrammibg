@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\06_MutexSync\MutexSync\bin\Debug\MutexSync.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\06_MutexSync\MutexSync\bin\Debug\MutexSync.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\06_MutexSync\MutexSync\bin\Debug\MutexSync.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\06_MutexSync\MutexSync\obj\Debug\MutexSync.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\06_MutexSync\MutexSync\obj\Debug\MutexSync.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\06_MutexSync\MutexSync\obj\Debug\MutexSync.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\06_MutexSync\MutexSync\obj\Debug\MutexSync.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\06_MutexSync\MutexSync\obj\Debug\MutexSync.pdb

@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\01_AddWithoutInterlockedSync\AddWithoutSync\bin\Debug\AddWithoutSync.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\01_AddWithoutInterlockedSync\AddWithoutSync\bin\Debug\AddWithoutSync.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\01_AddWithoutInterlockedSync\AddWithoutSync\bin\Debug\AddWithoutSync.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\01_AddWithoutInterlockedSync\AddWithoutSync\obj\Debug\AddWithoutSync.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\01_AddWithoutInterlockedSync\AddWithoutSync\obj\Debug\AddWithoutSync.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\01_AddWithoutInterlockedSync\AddWithoutSync\obj\Debug\AddWithoutSync.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\01_AddWithoutInterlockedSync\AddWithoutSync\obj\Debug\AddWithoutSync.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\01_AddWithoutInterlockedSync\AddWithoutSync\obj\Debug\AddWithoutSync.pdb

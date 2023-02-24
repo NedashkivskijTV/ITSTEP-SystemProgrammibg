@@ -1,0 +1,15 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230221\DZ5\RandomNumbers\RandomNumbers\bin\Debug\net6.0\RandomNumbers.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230221\DZ5\RandomNumbers\RandomNumbers\bin\Debug\net6.0\RandomNumbers.deps.json
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230221\DZ5\RandomNumbers\RandomNumbers\bin\Debug\net6.0\RandomNumbers.runtimeconfig.json
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230221\DZ5\RandomNumbers\RandomNumbers\bin\Debug\net6.0\RandomNumbers.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230221\DZ5\RandomNumbers\RandomNumbers\bin\Debug\net6.0\RandomNumbers.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230221\DZ5\RandomNumbers\RandomNumbers\obj\Debug\net6.0\RandomNumbers.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230221\DZ5\RandomNumbers\RandomNumbers\obj\Debug\net6.0\RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230221\DZ5\RandomNumbers\RandomNumbers\obj\Debug\net6.0\RandomNumbers.AssemblyInfoInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230221\DZ5\RandomNumbers\RandomNumbers\obj\Debug\net6.0\RandomNumbers.AssemblyInfo.cs
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230221\DZ5\RandomNumbers\RandomNumbers\obj\Debug\net6.0\RandomNumbers.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230221\DZ5\RandomNumbers\RandomNumbers\obj\Debug\net6.0\RandomNumbers.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230221\DZ5\RandomNumbers\RandomNumbers\obj\Debug\net6.0\refint\RandomNumbers.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230221\DZ5\RandomNumbers\RandomNumbers\obj\Debug\net6.0\RandomNumbers.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230221\DZ5\RandomNumbers\RandomNumbers\obj\Debug\net6.0\RandomNumbers.genruntimeconfig.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230221\DZ5\RandomNumbers\RandomNumbers\obj\Debug\net6.0\ref\RandomNumbers.dll

@@ -11,7 +11,7 @@ namespace TextEditor
         {
             InitializeComponent();
 
-            BtnSaveState(false);
+            BtnSaveState(false); // деактивація кнопок збереження тексту
         }
 
         async private void btnOpenFile_Click(object sender, EventArgs e)
@@ -29,7 +29,7 @@ namespace TextEditor
                     richTextBox1.Text = str;
                     //richTextBox1.LoadFile(fileName); // завантаження rtf файлу
 
-                    BtnSaveState(false);
+                    BtnSaveState(false); // деактивація кнопок збереження тексту
                 }
                 else
                 {
@@ -56,7 +56,7 @@ namespace TextEditor
                     string text = richTextBox1.Text;
                     await File.WriteAllTextAsync(fileName, text); // збереження даних
                     
-                    btnSaveText.Enabled = false;
+                    BtnSaveState(false); // деактивація кнопок збереження тексту
                 }
             }
             else
@@ -74,7 +74,7 @@ namespace TextEditor
         {
             if (fileName.Length > 0)
             {
-                BtnSaveState(true);
+                BtnSaveState(true); // АКТИВАЦІЯ кнопок збереження тексту (після внесення змін)
             }
         }
 

@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\04_GoodLockSync\GoodLockSync\bin\Debug\GoodLockSync.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\04_GoodLockSync\GoodLockSync\bin\Debug\GoodLockSync.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\04_GoodLockSync\GoodLockSync\bin\Debug\GoodLockSync.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\04_GoodLockSync\GoodLockSync\obj\Debug\GoodLockSync.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\04_GoodLockSync\GoodLockSync\obj\Debug\GoodLockSync.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\04_GoodLockSync\GoodLockSync\obj\Debug\GoodLockSync.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\04_GoodLockSync\GoodLockSync\obj\Debug\GoodLockSync.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\04_GoodLockSync\GoodLockSync\obj\Debug\GoodLockSync.pdb

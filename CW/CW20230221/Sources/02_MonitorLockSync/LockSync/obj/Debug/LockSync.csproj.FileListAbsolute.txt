@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\02_MonitorLockSync\LockSync\bin\Debug\LockSync.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\02_MonitorLockSync\LockSync\bin\Debug\LockSync.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\02_MonitorLockSync\LockSync\bin\Debug\LockSync.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\02_MonitorLockSync\LockSync\obj\Debug\LockSync.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\02_MonitorLockSync\LockSync\obj\Debug\LockSync.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\02_MonitorLockSync\LockSync\obj\Debug\LockSync.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\02_MonitorLockSync\LockSync\obj\Debug\LockSync.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\02_MonitorLockSync\LockSync\obj\Debug\LockSync.pdb

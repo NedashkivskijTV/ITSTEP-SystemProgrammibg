@@ -1,0 +1,15 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\07_MutexSyncNetCore\MutexSyncNetCore\bin\Debug\net6.0\MutexSyncNetCore.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\07_MutexSyncNetCore\MutexSyncNetCore\bin\Debug\net6.0\MutexSyncNetCore.deps.json
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\07_MutexSyncNetCore\MutexSyncNetCore\bin\Debug\net6.0\MutexSyncNetCore.runtimeconfig.json
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\07_MutexSyncNetCore\MutexSyncNetCore\bin\Debug\net6.0\MutexSyncNetCore.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\07_MutexSyncNetCore\MutexSyncNetCore\bin\Debug\net6.0\MutexSyncNetCore.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\07_MutexSyncNetCore\MutexSyncNetCore\obj\Debug\net6.0\MutexSyncNetCore.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\07_MutexSyncNetCore\MutexSyncNetCore\obj\Debug\net6.0\MutexSyncNetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\07_MutexSyncNetCore\MutexSyncNetCore\obj\Debug\net6.0\MutexSyncNetCore.AssemblyInfoInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\07_MutexSyncNetCore\MutexSyncNetCore\obj\Debug\net6.0\MutexSyncNetCore.AssemblyInfo.cs
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\07_MutexSyncNetCore\MutexSyncNetCore\obj\Debug\net6.0\MutexSyncNetCore.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\07_MutexSyncNetCore\MutexSyncNetCore\obj\Debug\net6.0\MutexSyncNetCore.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\07_MutexSyncNetCore\MutexSyncNetCore\obj\Debug\net6.0\refint\MutexSyncNetCore.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\07_MutexSyncNetCore\MutexSyncNetCore\obj\Debug\net6.0\MutexSyncNetCore.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\07_MutexSyncNetCore\MutexSyncNetCore\obj\Debug\net6.0\MutexSyncNetCore.genruntimeconfig.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\07_MutexSyncNetCore\MutexSyncNetCore\obj\Debug\net6.0\ref\MutexSyncNetCore.dll
