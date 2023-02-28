@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\10_OneInstanceApp\OneInstanceApp\bin\Debug\OneInstanceApp.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\10_OneInstanceApp\OneInstanceApp\bin\Debug\OneInstanceApp.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\10_OneInstanceApp\OneInstanceApp\bin\Debug\OneInstanceApp.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\10_OneInstanceApp\OneInstanceApp\obj\Debug\OneInstanceApp.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\10_OneInstanceApp\OneInstanceApp\obj\Debug\OneInstanceApp.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\10_OneInstanceApp\OneInstanceApp\obj\Debug\OneInstanceApp.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\10_OneInstanceApp\OneInstanceApp\obj\Debug\OneInstanceApp.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\10_OneInstanceApp\OneInstanceApp\obj\Debug\OneInstanceApp.pdb

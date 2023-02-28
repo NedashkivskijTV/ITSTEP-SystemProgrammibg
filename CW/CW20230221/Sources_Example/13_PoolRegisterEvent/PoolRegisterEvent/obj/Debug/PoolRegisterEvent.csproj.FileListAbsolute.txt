@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\13_PoolRegisterEvent\PoolRegisterEvent\bin\Debug\PoolRegisterEvent.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\13_PoolRegisterEvent\PoolRegisterEvent\bin\Debug\PoolRegisterEvent.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\13_PoolRegisterEvent\PoolRegisterEvent\bin\Debug\PoolRegisterEvent.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\13_PoolRegisterEvent\PoolRegisterEvent\obj\Debug\PoolRegisterEvent.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\13_PoolRegisterEvent\PoolRegisterEvent\obj\Debug\PoolRegisterEvent.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\13_PoolRegisterEvent\PoolRegisterEvent\obj\Debug\PoolRegisterEvent.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\13_PoolRegisterEvent\PoolRegisterEvent\obj\Debug\PoolRegisterEvent.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\13_PoolRegisterEvent\PoolRegisterEvent\obj\Debug\PoolRegisterEvent.pdb

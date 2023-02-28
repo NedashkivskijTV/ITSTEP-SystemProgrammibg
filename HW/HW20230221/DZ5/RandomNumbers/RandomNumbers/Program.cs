@@ -51,30 +51,27 @@ namespace RandomNumbers
 
         public void Actions(object methodIndex) // метод перемикач (в залежності від параметра викликає один з методів)
         {
-            //mutexObj.WaitOne();
-            lock (mutexObj)
+            mutexObj.WaitOne();
+            string indexAction = (string)methodIndex;
+            switch (indexAction)
             {
-                string indexAction = (string)methodIndex;
-                switch (indexAction)
-                {
-                    case "1":
-                        {
-                            CreateRandomNumbers();
-                        }
-                        break;
-                    case "2":
-                        {
-                            PrimeNumbers();
-                        }
-                        break;
-                    case "3":
-                        {
-                            PrimeNumbersEndingIn7();
-                        }
-                        break;
-                }
+                case "1":
+                    {
+                        CreateRandomNumbers();
+                    }
+                    break;
+                case "2":
+                    {
+                        PrimeNumbers();
+                    }
+                    break;
+                case "3":
+                    {
+                        PrimeNumbersEndingIn7();
+                    }
+                    break;
             }
-            //mutexObj.ReleaseMutex();
+            mutexObj.ReleaseMutex();
         }
 
         private void CreateRandomNumbers() // наповнення 1-го файлу випадковими числами

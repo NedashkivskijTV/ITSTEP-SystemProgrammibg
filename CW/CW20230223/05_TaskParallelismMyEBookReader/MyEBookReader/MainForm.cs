@@ -43,27 +43,27 @@ namespace MyEBookReader
             var watch = new Stopwatch();
             watch.Start();
 
-            //Var1 - обычный способ
-            // Now, find the ten most common words.
-            tenMostCommon = FindTenMostCommon(words);
-            //Get the longest word. 
-            longestWord = FindLongestWord(words);
-            //Var1 - обычный способ
+            ////Var1 - обычный способ
+            //// Now, find the ten most common words.
+            //tenMostCommon = FindTenMostCommon(words);
+            ////Get the longest word. 
+            //longestWord = FindLongestWord(words);
+            ////Var1 - обычный способ
 
-            ////Var2 - Параллельное выполнение
-            //Parallel.Invoke(
-            //    () =>
-            //    {
-            //        // Now, find the ten most common words.
-            //        tenMostCommon = FindTenMostCommon(words);
-            //    },
-            //    () =>
-            //    {
-            //        // Get the longest word. 
-            //        longestWord = FindLongestWord(words);
-            //    }
-            //    );
-            ////Var2 - Параллельное выполнение
+            //Var2 - Параллельное выполнение
+            Parallel.Invoke(
+                () =>
+                {
+                    // Now, find the ten most common words.
+                    tenMostCommon = FindTenMostCommon(words);
+                },
+                () =>
+                {
+                    // Get the longest word. 
+                    longestWord = FindLongestWord(words);
+                }
+                );
+            //Var2 - Параллельное выполнение
 
             watch.Stop();
 

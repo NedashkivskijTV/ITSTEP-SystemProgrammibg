@@ -53,12 +53,12 @@ namespace PLINQDataProcessingWithCancellation
 
                 watch.Start();
 
-                //Var1 - Обычный LINQ - запрос
-                // Сиснтаксис запросов
-                modThreeIsZero = (from num in source
-                                  where num % 3 == 0
-                                  orderby num ascending
-                                  select num).ToArray();
+                ////Var1 - Обычный LINQ - запрос
+                //// Сиснтаксис запросов
+                //modThreeIsZero = (from num in source
+                //                  where num % 3 == 0
+                //                  orderby num ascending
+                //                  select num).ToArray();
 
                 //// Сиснтаксис методов
                 //modThreeIsZero = source.Where(num => num % 3 == 0)
@@ -78,15 +78,15 @@ namespace PLINQDataProcessingWithCancellation
                 //                  select num)
                 //                  .ToArray();
 
-                //// Сиснтаксис методов
-                //modThreeIsZero = source.AsParallel()
-                //                       .AsOrdered()
-                //                       .WithCancellation(cancelToken.Token)
-                //                       //.WithDegreeOfParallelism(Environment.ProcessorCount)
-                //                       .Where(num => num % 3 == 0)
-                //                       .Select(num => num)
-                //                       .ToArray();
-                ////Var2 - PLINQ - запрос
+                // Сиснтаксис методов
+                modThreeIsZero = source.AsParallel()
+                                       .AsOrdered()
+                                       .WithCancellation(cancelToken.Token)
+                                       .WithDegreeOfParallelism(Environment.ProcessorCount)
+                                       .Where(num => num % 3 == 0)
+                                       .Select(num => num)
+                                       .ToArray();
+                //Var2 - PLINQ - запрос
 
                 watch.Stop();
 

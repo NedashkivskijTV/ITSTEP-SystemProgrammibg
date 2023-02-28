@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\05_VolatileOperation\VolatileOperation\bin\Release\VolatileOperation.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\05_VolatileOperation\VolatileOperation\bin\Release\VolatileOperation.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\05_VolatileOperation\VolatileOperation\bin\Release\VolatileOperation.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\05_VolatileOperation\VolatileOperation\obj\Release\VolatileOperation.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\05_VolatileOperation\VolatileOperation\obj\Release\VolatileOperation.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\05_VolatileOperation\VolatileOperation\obj\Release\VolatileOperation.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\05_VolatileOperation\VolatileOperation\obj\Release\VolatileOperation.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\05_VolatileOperation\VolatileOperation\obj\Release\VolatileOperation.pdb

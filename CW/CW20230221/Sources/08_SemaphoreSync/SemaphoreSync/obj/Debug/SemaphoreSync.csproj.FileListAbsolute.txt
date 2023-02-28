@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\08_SemaphoreSync\SemaphoreSync\bin\Debug\SemaphoreSync.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\08_SemaphoreSync\SemaphoreSync\bin\Debug\SemaphoreSync.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\08_SemaphoreSync\SemaphoreSync\bin\Debug\SemaphoreSync.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\08_SemaphoreSync\SemaphoreSync\obj\Debug\SemaphoreSync.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\08_SemaphoreSync\SemaphoreSync\obj\Debug\SemaphoreSync.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\08_SemaphoreSync\SemaphoreSync\obj\Debug\SemaphoreSync.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\08_SemaphoreSync\SemaphoreSync\obj\Debug\SemaphoreSync.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources\08_SemaphoreSync\SemaphoreSync\obj\Debug\SemaphoreSync.pdb

@@ -11,23 +11,23 @@ namespace ParallelNetCore
             //1 Parallel.For
             Console.WriteLine("1 Parallel.For");
 
-            //Var 1		
-            ParallelLoopResult result1 = Parallel.For(0, 10, i =>
-            //Var 1		
+            ////Var 1		
+            //ParallelLoopResult result1 = Parallel.For(0, 10, i =>
+            ////Var 1		
 
-            ////Var 2		
-            //ParallelLoopResult result1 = Parallel.For(0, 10, async i =>
-            ////Var 2		
+            //Var 2		
+            ParallelLoopResult result1 = Parallel.For(0, 10, async i =>
+            //Var 2		
             {
                 Console.WriteLine($"i: {i}, task: {Task.CurrentId}, thread: {Thread.CurrentThread.ManagedThreadId}");
 
-                //Var 1		
-                Thread.Sleep(10);
-                //Var 1
+                ////Var 1		
+                //Thread.Sleep(10);
+                ////Var 1
 
-                ////Var 2		
-                //await Task.Delay(10);
-                ////Var 2		
+                //Var 2		
+                await Task.Delay(10);
+                //Var 2		
 
                 Console.WriteLine($"\t\ti: {i}, task: {Task.CurrentId}, thread: {Thread.CurrentThread.ManagedThreadId}");
             });

@@ -23,11 +23,11 @@ namespace DataParallelismWithForEach
             // Start a new "task" to process the files. 
             Task.Factory.StartNew(() =>
             {
-                //Var1 - обычный способ 
-                ProcessFilesNoParallel();
+                ////Var1 - обычный способ 
+                //ProcessFilesNoParallel();
 
-                ////Var2 - параллельный способ 
-                //ProcessFilesParallel();
+                //Var2 - параллельный способ 
+                ProcessFilesParallel();
             });
         }
 
@@ -61,7 +61,7 @@ namespace DataParallelismWithForEach
 
                         // We need to ensure that the secondary threads access controls
                         // created on primary thread in a safe manner.
-                        this.Invoke((Action)delegate
+                        this.Invoke((Action)delegate // конструкція міжпотокової взаємодії - оскільки оновлюється елемпент інтерфейсу (у первинному потоці), напряму з різних потоків звернутись не вийде, 
                         {
                             txtInputArea.Text += string.Format($"Обработка файла  {filename} в потоке {Thread.CurrentThread.ManagedThreadId}" + Environment.NewLine);
                         });
@@ -69,6 +69,7 @@ namespace DataParallelismWithForEach
                 };
 
                 watch.Stop();
+
                 this.Invoke((Action)delegate
                 {
                     txtInputArea.Text += string.Format($"Затраченное время {watch.ElapsedMilliseconds} мс.");

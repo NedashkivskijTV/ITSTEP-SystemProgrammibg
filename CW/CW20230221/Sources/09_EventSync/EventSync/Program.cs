@@ -7,11 +7,11 @@ namespace EventSync
     {
         static void Main(string[] args)
         {
-            //Var1
-            EventTest("Man");
+            ////Var1
+            //EventTest("Man");
 
-            ////Var2
-            //EventTest("Auto");
+            //Var2
+            EventTest("Auto");
         }
 
         private static void EventTest(string typeEvent)
@@ -38,17 +38,17 @@ namespace EventSync
             {
                 Console.WriteLine($"Поток {Thread.CurrentThread.ManagedThreadId} успел проскочить");
 
-                //Var1
-                //Thread.Sleep(1); // Пробуем раскомментировать
-                ev.Reset(); //Задает несигнальное состояние события, вызывая блокирование потоков.
-                //Var1
+                ////Var1
+                ////Thread.Sleep(1); // Пробуем раскомментировать
+                //ev.Reset(); //Задает несигнальное состояние события, вызывая блокирование потоков.
+                ////Var1
 
-                ////Var2
-                //Thread.Sleep(1);
-                //// Пробуем раскомментировать
-                //// ev.Set(); //Задает сигнальное состояние события, вызывая снятие блокирования потоков.
-                //// Пробуем раскомментировать
-                ////Var2 
+                //Var2
+                Thread.Sleep(1);
+                // Пробуем раскомментировать
+                // ev.Set(); //Задает сигнальное состояние события, вызывая снятие блокирования потоков.
+                // Пробуем раскомментировать
+                //Var2 
             }
             else
                 Console.WriteLine($"Поток {Thread.CurrentThread.ManagedThreadId} опоздал");

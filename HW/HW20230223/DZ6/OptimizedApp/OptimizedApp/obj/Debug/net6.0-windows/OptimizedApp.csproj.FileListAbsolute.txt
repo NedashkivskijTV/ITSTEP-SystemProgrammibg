@@ -1,0 +1,17 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\bin\Debug\net6.0-windows\OptimizedApp.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\bin\Debug\net6.0-windows\OptimizedApp.deps.json
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\bin\Debug\net6.0-windows\OptimizedApp.runtimeconfig.json
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\bin\Debug\net6.0-windows\OptimizedApp.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\bin\Debug\net6.0-windows\OptimizedApp.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\obj\Debug\net6.0-windows\OptimizedApp.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\obj\Debug\net6.0-windows\OptimizedApp.Form1.resources
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\obj\Debug\net6.0-windows\OptimizedApp.csproj.GenerateResource.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\obj\Debug\net6.0-windows\OptimizedApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\obj\Debug\net6.0-windows\OptimizedApp.AssemblyInfoInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\obj\Debug\net6.0-windows\OptimizedApp.AssemblyInfo.cs
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\obj\Debug\net6.0-windows\OptimizedApp.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\obj\Debug\net6.0-windows\OptimizedApp.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\obj\Debug\net6.0-windows\refint\OptimizedApp.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\obj\Debug\net6.0-windows\OptimizedApp.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\obj\Debug\net6.0-windows\OptimizedApp.genruntimeconfig.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\HW\HW20230223\DZ6\OptimizedApp\OptimizedApp\obj\Debug\net6.0-windows\ref\OptimizedApp.dll

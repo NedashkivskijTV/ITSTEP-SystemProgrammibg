@@ -1,0 +1,15 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\02_AllParallelismNetCore\ParallelNetCore\bin\Debug\net6.0\ParallelNetCore.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\02_AllParallelismNetCore\ParallelNetCore\bin\Debug\net6.0\ParallelNetCore.deps.json
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\02_AllParallelismNetCore\ParallelNetCore\bin\Debug\net6.0\ParallelNetCore.runtimeconfig.json
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\02_AllParallelismNetCore\ParallelNetCore\bin\Debug\net6.0\ParallelNetCore.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\02_AllParallelismNetCore\ParallelNetCore\bin\Debug\net6.0\ParallelNetCore.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\02_AllParallelismNetCore\ParallelNetCore\obj\Debug\net6.0\ParallelNetCore.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\02_AllParallelismNetCore\ParallelNetCore\obj\Debug\net6.0\ParallelNetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\02_AllParallelismNetCore\ParallelNetCore\obj\Debug\net6.0\ParallelNetCore.AssemblyInfoInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\02_AllParallelismNetCore\ParallelNetCore\obj\Debug\net6.0\ParallelNetCore.AssemblyInfo.cs
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\02_AllParallelismNetCore\ParallelNetCore\obj\Debug\net6.0\ParallelNetCore.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\02_AllParallelismNetCore\ParallelNetCore\obj\Debug\net6.0\ParallelNetCore.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\02_AllParallelismNetCore\ParallelNetCore\obj\Debug\net6.0\refint\ParallelNetCore.dll
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\02_AllParallelismNetCore\ParallelNetCore\obj\Debug\net6.0\ParallelNetCore.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\02_AllParallelismNetCore\ParallelNetCore\obj\Debug\net6.0\ParallelNetCore.genruntimeconfig.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\02_AllParallelismNetCore\ParallelNetCore\obj\Debug\net6.0\ref\ParallelNetCore.dll

@@ -1,0 +1,11 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\05_TaskParallelismMyEBookReader\MyEBookReader\bin\Debug\MyEBookReader.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\05_TaskParallelismMyEBookReader\MyEBookReader\bin\Debug\MyEBookReader.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\05_TaskParallelismMyEBookReader\MyEBookReader\bin\Debug\MyEBookReader.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\05_TaskParallelismMyEBookReader\MyEBookReader\obj\x86\Debug\MyEBookReader.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\05_TaskParallelismMyEBookReader\MyEBookReader\obj\x86\Debug\MyEBookReader.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\05_TaskParallelismMyEBookReader\MyEBookReader\obj\x86\Debug\MyEBookReader.MainForm.resources
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\05_TaskParallelismMyEBookReader\MyEBookReader\obj\x86\Debug\MyEBookReader.Properties.Resources.resources
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\05_TaskParallelismMyEBookReader\MyEBookReader\obj\x86\Debug\MyEBookReader.csproj.GenerateResource.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\05_TaskParallelismMyEBookReader\MyEBookReader\obj\x86\Debug\MyEBookReader.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\05_TaskParallelismMyEBookReader\MyEBookReader\obj\x86\Debug\MyEBookReader.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\05_TaskParallelismMyEBookReader\MyEBookReader\obj\x86\Debug\MyEBookReader.pdb

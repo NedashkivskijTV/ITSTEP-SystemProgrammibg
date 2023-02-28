@@ -1,0 +1,8 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\12_Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\12_Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\12_Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\12_Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\12_Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\12_Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\12_Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230221\Sources_Example\12_Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb

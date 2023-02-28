@@ -1,4 +1,4 @@
-﻿// Выставляем режим Release
+﻿// Выставляем режим Release - !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 using System;
 using System.Threading;
@@ -7,13 +7,13 @@ namespace VolatileOperation
 {
     class VolatileOperation
     {
-        //Var1,2
-        static bool finish = false;
-        //Var1,2
+        ////Var1,2
+        //static bool finish = false;
+        ////Var1,2
 
-        ////Var3
-        //static volatile bool finish = false;
-        ////Var3
+        //Var3
+        static volatile bool finish = false; // властивість з модифікаторм volatile
+        //Var3
 
         static void Main(string[] args)
         {
@@ -25,7 +25,7 @@ namespace VolatileOperation
             //Var1,3
 
             ////Var2
-            //while (!Volatile.Read(ref finish))
+            //while (!Volatile.Read(ref finish)) // захищене читання
             ////Var2
 
             {
@@ -44,7 +44,7 @@ namespace VolatileOperation
             //Var1,3
 
             ////Var2
-            //Volatile.Write(ref finish, true);
+            //Volatile.Write(ref finish, true); // захищена операція Write
             ////Var2
         }
     }

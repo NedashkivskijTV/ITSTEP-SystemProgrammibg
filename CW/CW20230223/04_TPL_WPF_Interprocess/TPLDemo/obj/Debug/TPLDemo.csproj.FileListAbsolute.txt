@@ -1,0 +1,15 @@
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\04_TPL_WPF_Interprocess\TPLDemo\bin\Debug\TPLDemo.exe.config
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\04_TPL_WPF_Interprocess\TPLDemo\bin\Debug\TPLDemo.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\04_TPL_WPF_Interprocess\TPLDemo\bin\Debug\TPLDemo.pdb
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\04_TPL_WPF_Interprocess\TPLDemo\obj\Debug\TPLDemo.csproj.AssemblyReference.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\04_TPL_WPF_Interprocess\TPLDemo\obj\Debug\TPLDemo.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\04_TPL_WPF_Interprocess\TPLDemo\obj\Debug\View\MainWindow.baml
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\04_TPL_WPF_Interprocess\TPLDemo\obj\Debug\View\MainWindow.g.cs
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\04_TPL_WPF_Interprocess\TPLDemo\obj\Debug\App.g.cs
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\04_TPL_WPF_Interprocess\TPLDemo\obj\Debug\TPLDemo_MarkupCompile.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\04_TPL_WPF_Interprocess\TPLDemo\obj\Debug\TPLDemo.g.resources
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\04_TPL_WPF_Interprocess\TPLDemo\obj\Debug\TPLDemo.Properties.Resources.resources
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\04_TPL_WPF_Interprocess\TPLDemo\obj\Debug\TPLDemo.csproj.GenerateResource.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\04_TPL_WPF_Interprocess\TPLDemo\obj\Debug\TPLDemo.csproj.CoreCompileInputs.cache
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\04_TPL_WPF_Interprocess\TPLDemo\obj\Debug\TPLDemo.exe
+D:\ITSTEP\SystemPrograming\GIT\ITSTEP-SystemProgramming\CW\CW20230223\04_TPL_WPF_Interprocess\TPLDemo\obj\Debug\TPLDemo.pdb
